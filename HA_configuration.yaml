@@ -1,5 +1,5 @@
 fan:
-- platform: template
+  - platform: template
     fans:
       afzuiging_badkamer:
         friendly_name: "Afzuiging badkamer"
